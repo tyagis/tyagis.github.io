@@ -1,2 +1,1 @@
-# tyagis.github.io
-https://sid.tyagi.info
+# https://sid.tyagi.info
